@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z390 Designare, Intel Core i7 9700K, AMD Radeon RX 580
 
+![Overview](https://github.com/user-attachments/assets/3e128754-699e-43e9-9616-7dae1d849570)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
